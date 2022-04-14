@@ -13,11 +13,7 @@ public class Triangle extends Shape{
     public double area() {
         return baseline * height / 2;
     }
-
-
-
     
-
 
 
 }
